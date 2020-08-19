@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidDialogs</string>
+    <string name="time">What time is it now?</string>
+    <string name="timePickerDialog">Time Picker Dialog</string>
+    <string name="date">What is the date right now?</string>
+    <string name="datePickerDialog">Date Picker Dialog</string>
+    <string name="exit">Alert</string>
+    <string name="save_data">Save data?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="saved">Saved</string>
+    <string name="Default">Default Progress Dialog</string>
+    <string name="horizontal">Horizontal Progress Dialog</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intent_06_01_2017</string>
+    <string name="button">button</string>
+    <string name="put_name">Put name</string>
+    <string name="button_save">Save</string>
+    <string name="put_phone">Put phone number</string>
+</resources>
